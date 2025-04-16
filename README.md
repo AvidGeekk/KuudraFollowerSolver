@@ -12,3 +12,6 @@ Usage Download the jar file from the top of the page and place it into your mine
 How to use You can configure the mod in the mods menu. Check your forge installaton on where to find the settings panel
 
 Commands /kfs - Opens the mod menu with a guide on how to use the mod effectively 
+
+the mod should look like this
+![image](https://github.com/user-attachments/assets/313b91ac-b6ff-4bf9-914c-f5b7182d0279)
