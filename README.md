@@ -1,4 +1,4 @@
-**KuudraFollowerSolver
+KuudraFollowerSolver
 KuudraFollowerSolver Introducing "KuudraFollowerSolver," a captivating Java mod designed to enhance the Kuudra quest experience in Hypixel Skyblock. . This mod seamlessly integrates a challenging yet rewarding puzzle-solving mechanism, adding an extra layer of help to the Kuudra quest.
 
 This Mod Is An Open Source Code Mod
@@ -11,4 +11,4 @@ Usage Download the jar file from the top of the page and place it into your mine
 
 How to use You can configure the mod in the mods menu. Check your forge installaton on where to find the settings panel
 
-Commands /kfs - Opens the mod menu with a guide on how to use the mod effectively**
+Commands /kfs - Opens the mod menu with a guide on how to use the mod effectively 
